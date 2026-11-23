@@ -1,0 +1,9 @@
+{
+  "name": "novastore-ecommerce-capstone",
+  "version": "1.0.0",
+  "description": "Modular E-Commerce Product Catalog with Client-Side Routing & Asset Optimization",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "node build.js"
+  }
+}
